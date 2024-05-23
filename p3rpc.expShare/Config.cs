@@ -12,7 +12,7 @@ public class Config : Configurable<Config>
 
     [DisplayName("Growth 3 Mod")]
     [Description("EXP Share also applies to stock personas.")]
-    [DefaultValue(false)]
+    [DefaultValue(true)]
     public bool Growth3 { get; set; } = true;
 }
 
