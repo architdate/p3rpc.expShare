@@ -9,8 +9,8 @@ A simple P3R mod that does EXP sharing across both active and inactive party and
 - The same goes for any deaths that happen (Spoilers :D)
 
 ## Planned features
-[ ] Exp multiplier for party
-[ ] Mode to distribute total earned EXP among all party members instead of getting hero EXP (For example if you earn 100 EXP, everyone can get 10 EXP instead of 100 EXP)
+- [ ] Exp multiplier for party
+- [ ] Mode to distribute total earned EXP among all party members instead of getting hero EXP (For example if you earn 100 EXP, everyone can get 10 EXP instead of 100 EXP)
 
 ## Special Thanks
 - AnimatedSwine: I took a lot of inspiration from their existing mods
