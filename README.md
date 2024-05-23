@@ -6,7 +6,6 @@ A simple P3R mod that does EXP sharing across both active and inactive party and
 - Growth 3 for all Personas. (Can be disabled via mod config)
 - Everyone gets the same EXP as Hero
 - Respect join dates for characters (Won't grant EXP if the character has not yet joined SEES)
-- The same goes for any deaths that happen (Spoilers :D)
 
 ## Planned features
 - [ ] Exp multiplier for party
