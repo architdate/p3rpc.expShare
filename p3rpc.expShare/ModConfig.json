@@ -1,0 +1,24 @@
+{
+  "ModId": "p3rpc.expShare",
+  "ModName": "EXP Share",
+  "ModAuthor": "thecommondude",
+  "ModVersion": "1.0.0",
+  "ModDescription": "All members in the team get the exact same EXP (max EXP earned from battle).",
+  "ModDll": "p3rpc.expShare.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p3rpc.expShare.dll",
+  "ModR2RManagedDll64": "x64/p3rpc.expShare.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3rpc.expShare.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks",
+    "Reloaded.Memory.SigScan.ReloadedII"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": ["p3r.exe"],
+  "ProjectUrl": ""
+}
